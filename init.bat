@@ -1,2 +1,2 @@
-docsify init ./
+docsify init ./docs
 pause
